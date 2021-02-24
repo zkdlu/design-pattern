@@ -1,6 +1,5 @@
 public class 팩토리메서드 {
     public interface Keyboard {
-
     }
 
     public class LGKeyboard implements Keyboard {
