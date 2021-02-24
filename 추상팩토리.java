@@ -3,3 +3,4 @@ public class 추상팩토리 {
         System.out.println("hello world");
     }
 }
+g
