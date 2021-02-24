@@ -1,4 +1,6 @@
-public class 팩토리메서드 {
+package creational;
+
+public class FactoryMethod {
     public interface Keyboard {
     }
 
@@ -20,7 +22,7 @@ public class 팩토리메서드 {
     }
 
     public static void main(String[] args) {
-        팩토리메서드 p = new 팩토리메서드();
+        FactoryMethod p = new FactoryMethod();
         p.run();
     }
 

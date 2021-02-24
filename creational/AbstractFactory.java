@@ -1,6 +1,6 @@
-package 생성패턴;
+package creational;
 
-public class 추상팩토리 {
+public class AbstractFactory {
     public static void main(String[] args) {
         System.out.println("hello world");
     }
