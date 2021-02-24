@@ -2,7 +2,7 @@ package creational;
 
 public class Singleton {
     public static class SingleObj {
-        private static SingleObj instance = new SingleObj();
+        private static final SingleObj instance = new SingleObj();
 
         private SingleObj() {}
 
