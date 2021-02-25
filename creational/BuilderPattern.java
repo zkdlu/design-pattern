@@ -1,6 +1,6 @@
 package creational;
 
-public class Builder {
+public class BuilderPattern {
     
     public static class Target {
         private int id;

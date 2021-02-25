@@ -1,6 +1,6 @@
 package behavioral;
 
-public class Iterator {
+public class IteratorPattern {
     public static void main(String[] args) {
         
     }

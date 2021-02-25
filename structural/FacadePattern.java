@@ -1,6 +1,6 @@
 package structural;
 
-public class Facade {
+public class FacadePattern {
     
     public interface Surface {
         void run();
@@ -38,7 +38,7 @@ public class Facade {
     }
     
     public static void main(String[] args) {
-        Facade f = new Facade();
+        FacadePattern f = new FacadePattern();
         f.run();
     }
 

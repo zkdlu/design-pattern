@@ -1,6 +1,6 @@
 package creational;
 
-public class FactoryMethod {
+public class FactoryMethodPattern {
     public interface Keyboard {
     }
 
@@ -22,7 +22,7 @@ public class FactoryMethod {
     }
 
     public static void main(String[] args) {
-        FactoryMethod p = new FactoryMethod();
+        FactoryMethodPattern p = new FactoryMethodPattern();
         p.run();
     }
 

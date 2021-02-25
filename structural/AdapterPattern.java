@@ -1,6 +1,6 @@
 package structural;
 
-public class Adapter {
+public class AdapterPattern {
     public interface MyLib {
         void print();
     }
@@ -36,7 +36,7 @@ public class Adapter {
     }
 
     public static void main(String[] args) {
-        Adapter adapter = new Adapter();
+        AdapterPattern adapter = new AdapterPattern();
         adapter.run();
     }
     

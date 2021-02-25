@@ -1,6 +1,6 @@
 package creational;
 
-public class Singleton {
+public class SingletonPattern {
     public static class SingleObj {
         private static final SingleObj instance = new SingleObj();
 
