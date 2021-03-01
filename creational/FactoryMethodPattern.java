@@ -1,6 +1,7 @@
 package creational;
 
 public class FactoryMethodPattern {
+    
     public interface Keyboard {
     }
 
