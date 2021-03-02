@@ -1,7 +1,5 @@
 package creational;
 
-import jdk.javadoc.internal.doclets.formats.html.SourceToHTMLConverter;
-
 public class AbstractFactoryPattern {
     
     public interface Keyboard {
